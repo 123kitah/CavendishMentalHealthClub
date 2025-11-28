@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Mental Health Club Theme Colors -->
+    <color name="primary_blue">#245FA8</color>
+    <color name="primary_blue_dark">#2F5FB3</color>
+    <color name="accent_green">#7ED321</color>
+    <color name="accent_teal">#0F5C57</color>
+    <color name="accent_purple">#C07CFF</color>
+    <color name="accent_peach">#FF9B8A</color>
+    <color name="background_light">#F4F7FB</color>
+    <color name="text_primary">#102B3F</color>
+    <color name="text_secondary">#4A5D73</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="divider">#E1E8ED</color>
+    <color name="overlay_dark">#B3001F3F</color>
+    <color name="soft_white">#FDFEFE</color>
+    <color name="glass_white">#8CFFFFFF</color>
+    <color name="glass_stroke">#40FFFFFF</color>
+    <color name="deep_navy">#0C1727</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder. Replace this file with the provided PNG/JPG named exactly
+     mental_health_photo.png (or .jpg) inside res/drawable to show the real image. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:startColor="#803498DB"
+        android:endColor="#80F06292"
+        android:angle="135" />
+</shape>
+
+
+
+
+
+

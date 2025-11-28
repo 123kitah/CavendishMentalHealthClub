@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradient base -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/primary_blue"
+                android:endColor="@color/primary_blue_dark"
+                android:angle="135" />
+        </shape>
+    </item>
+
+    <!-- Soft overlay circles -->
+    <item android:gravity="top|start" android:top="24dp" android:start="16dp">
+        <shape android:shape="oval">
+            <size android:width="260dp" android:height="260dp" />
+            <solid android:color="#33FFFFFF" />
+        </shape>
+    </item>
+
+    <item android:gravity="center_horizontal|top" android:top="160dp">
+        <shape android:shape="oval">
+            <size android:width="200dp" android:height="200dp" />
+            <solid android:color="#1AFFFFFF" />
+        </shape>
+    </item>
+
+    <item android:gravity="bottom|end" android:bottom="32dp" android:end="24dp">
+        <shape android:shape="oval">
+            <size android:width="320dp" android:height="320dp" />
+            <solid android:color="#26FFFFFF" />
+        </shape>
+    </item>
+
+</layer-list>
+
+
+
+
+
+

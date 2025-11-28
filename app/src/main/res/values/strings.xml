@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Cavendish Mental Health Club</string>
+    
+    <!-- Registration Screen -->
+    <string name="registration_title">Member Registration</string>
+    <string name="registration_subtitle">Join our wellness support programs</string>
+    <string name="hero_title">Your Mind Matters</string>
+    <string name="hero_subtitle">Personalized wellness pathways curated by Cavendish experts.</string>
+    <string name="hero_tagline">Trusted by leading universities and global wellness partners.</string>
+    <string name="hero_stat_members_value">35K+</string>
+    <string name="hero_stat_members_label">Members supported</string>
+    <string name="hero_stat_sessions_value">250+</string>
+    <string name="hero_stat_sessions_label">Therapists &amp; coaches</string>
+    <string name="hero_stat_satisfaction_value">97%</string>
+    <string name="hero_stat_satisfaction_label">Feel calmer day 7</string>
+    <string name="highlight_support">1:1 Coaching</string>
+    <string name="highlight_meditation">Guided Meditation</string>
+    <string name="highlight_community">Community Circles</string>
+    <string name="name_hint">Enter your full name</string>
+    <string name="age_hint">Enter your age</string>
+    <string name="select_program">Select Wellness Program</string>
+    <string name="register_button">Register</string>
+    <string name="name_label">Full Name</string>
+    <string name="age_label">Age</string>
+    <string name="program_label">Preferred Program</string>
+    <string name="impact_title">What you unlock</string>
+    <string name="impact_point_one">Daily rituals tailored to your energy and goals.</string>
+    <string name="impact_point_two">Live group circles &amp; guided calm soundscapes.</string>
+    <string name="impact_point_three">24/7 access to a crisis-ready clinician.</string>
+    <string name="impact_point_four">Progress dashboards that celebrate every small win.</string>
+    <string name="privacy_message">Your data is encrypted and never shared without consent.</string>
+    <string name="cta_watch_story">Watch member story</string>
+    <string name="footer_message">Secure • Confidential • Evidence-based</string>
+    <string name="urgent_support_title">Need urgent support?</string>
+    <string name="urgent_support_body">Our clinical response line is staffed around the clock.</string>
+    <string name="urgent_support_button">Talk to a clinician</string>
+    <string name="testimonial_quote">“I felt heard within minutes and now have a guided plan that fits my life.”</string>
+    <string name="testimonial_author">— Lindiwe, Cavendish Member</string>
+    
+    <!-- Program Options -->
+    <string name="stress_management">Stress Management</string>
+    <string name="counseling">Counseling</string>
+    <string name="meditation">Meditation</string>
+    
+    <!-- Confirmation Screen -->
+    <string name="confirmation_title">Registration Confirmed</string>
+    <string name="confirmation_subtitle">Thank you for joining us!</string>
+    <string name="confirmation_tagline">Your personalized wellness plan is on its way.</string>
+    <string name="confirmation_message">Our care team will reach out with your personalized plan within 24 hours.</string>
+    <string name="next_steps_title">Next steps</string>
+    <string name="next_step_one">Check your email for the welcome kit and app download.</string>
+    <string name="next_step_two">Book your complimentary onboarding call.</string>
+    <string name="next_step_three">Join tonight’s live mindfulness circle.</string>
+    <string name="contact_support_title">Need help?</string>
+    <string name="contact_support_body">Your concierge guide is available via email or WhatsApp.</string>
+    <string name="button_view_resources">View resources</string>
+    <string name="button_share_app">Share app</string>
+    <string name="member_name_label">Name:</string>
+    <string name="member_age_label">Age:</string>
+    <string name="member_program_label">Program:</string>
+    <string name="back_button">Back to Registration</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_name_required">Please enter your name</string>
+    <string name="error_full_name_required">Please enter your full name</string>
+    <string name="error_age_required">Please enter your age</string>
+    <string name="error_age_invalid">Please enter a valid age</string>
+    <string name="error_program_required">Please select a wellness program</string>
+
+    <!-- Accessibility -->
+    <string name="mental_health_background_desc">Abstract mental health illustration</string>
+</resources>
